@@ -34,7 +34,7 @@ g++ -std=c++11 main.cpp -o gpu_sim -pthread
 
 运行后自动开始单帧渲染，并在控制台输出最终 3D 画面。
 
-## 典型输出
+## 程序模型
 <img width="6850" height="3336" alt="mermaid-diagram-2026-05-02-224125" src="https://github.com/user-attachments/assets/f483a7db-e2a9-420f-aadc-38679e0876a7" />
 
 
