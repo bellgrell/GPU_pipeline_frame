@@ -50,4 +50,4 @@
 本项目基于经过 SPIN 模型检验的 GPU 管线形式化模型实现。
 (This project is implemented based on the SPIN-verified formal model of the GPU pipeline.)
 
-> Staroletov S. Formal Modeling and Verification of Various GPU Pipeline Architectures in SPIN. SPIN 2026.
+> [Staroletov S. Formal Modeling and Verification of Various GPU Pipeline Architectures in SPIN. SPIN 2026.](https://github.com/SergeyStaroletov/PromelaSamples/tree/master/gpu)
