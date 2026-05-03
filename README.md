@@ -44,7 +44,6 @@ g++ -std=c++11 main.cpp -o gpu_sim -pthread
 - 原子操作实现无锁深度测试
 - 线程安全阻塞队列 Channel
 - 与 Promela 形式化模型行为一致
-- 可用于教学、研究、架构验证
 
 ## 适用场景
 - 计算机图形学教学
